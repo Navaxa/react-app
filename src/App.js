@@ -15,7 +15,7 @@ function App() {
         >
           Learn React
         </a>
-        <div><h1>Hello world!!!</h1></div>
+        <div><h1>Hello world x2!!!</h1></div>
       </header>
     </div>
   );
